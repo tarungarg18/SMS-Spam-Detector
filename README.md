@@ -3,6 +3,9 @@
 ## Description
 This is a web application that allows users to input a message and determine whether it is spam or not spam. It leverages machine learning for message classification.
 
+# Deployed 
+https://sms-spam-detector-1-onyh.onrender.com
+
 ## Technologies Used
 * **Python**: Used for data processing and machine learning model development. This can be done in environments like Jupyter Notebook or Google Colab.
 * **Flask**: The web framework used to build the web application. Please refer to `requirements.txt` for specific Flask dependencies.
